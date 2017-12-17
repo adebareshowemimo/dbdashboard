@@ -1,0 +1,58 @@
+.navbar-fixed-top {
+	background: #2D5F8B ;
+	
+}
+#sidebar-navigation .logo {
+	background: #2D5F8B;
+}
+#sidebar-navigation , #sidemenu li.profile-sidebar , .sidebar-right .header ,#wrapper{ 
+	background: #4276A4 
+}
+.navbar-top-links li a , .minimalize-btn  {
+	color: #c6cfda;
+	
+}
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+	background: none;
+	border-color: none;
+}
+.nav.navbar-top-links a.dropdown-toggle {
+	text-shadow: none;
+}
+
+#sidebar-navigation .tools ul li a {
+	color: #fff;
+}
+#sidemenu > li > a {
+	color: #c6cfda;
+}
+#sidemenu > li > a:hover, 
+.expanded-menu > li > a:focus
+{
+	background: #397FAE !important;
+}
+#sidemenu .nav-second-level li a {
+	background: #4276A4;
+	color: #c6cfda;
+}
+#sidemenu .nav-second-level li a:hover, .nav-second-level li a:focus {
+	background: #4276A4 !important;
+	color: #c6cfda;
+}
+#sidemenu .nav-second-level li.active a {
+	background: #397fae ;
+	color: #fff;
+
+} 
+#sidemenu > li.active > a {
+	background: #D64635;
+	color: #fff;
+}
+#sidebar-navigation .nav > li.separator {
+	color: #fff;
+	font-size: 11px;
+	font-weight: 700;
+}
+.modal-header {
+	background: #3498db ;
+}

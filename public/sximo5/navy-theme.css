@@ -1,0 +1,40 @@
+body {
+	background: #EEF1F5;
+}
+#page-wrapper {
+		background: #EEF1F5;
+}
+.navbar-fixed-top {
+	background: #2b3643 ;
+	border-bottom:1px solid #e7eaec
+}
+.navbar-header {
+	height: 49px;
+	background: #2b3643  ;
+	border-right:1px solid #2b3643
+
+}
+#sidebar-navigation .logo {
+	background:#2b3643;
+	border-bottom: 1px solid #2b3643;
+	
+}
+.navbar-top-links li a , .minimalize-btn  {
+	color: #c6cfda;
+	
+}
+.nav.navbar-top-links a.dropdown-toggle {
+	text-shadow: none;
+}
+#sidemenu > li > a {
+	font-weight: 500;
+	color: #c6cfda
+}
+.sbox {
+	border:none !important;
+}
+#sidebar-navigation .nav > li.separator {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 700;
+}
